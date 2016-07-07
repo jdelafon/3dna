@@ -1,0 +1,11 @@
+Semester project to obtain my bachelor's degree at EPFL,
+and my first experience with Python.
+
+Subject: Coarse-grain modeling of DNA.
+
+The app displays a 3D coarse-grain construction of a 20bp DNA molecule,
+using data from a molecular dynamics simulations ("ABC" project),
+and allow to transform it by increasing parameters in the direction
+of an eigenvector of the stiffness covariance matrix.
+
+It uses Mayavi/mlab for 3D graphics.
